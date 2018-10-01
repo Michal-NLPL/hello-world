@@ -2,6 +2,7 @@ html {
   background-image: url("Marble-Stone.jpg");
 }
 
+
 body {
   width: 750px;
   max-width: 90%;
@@ -14,6 +15,8 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+
+body {  background-image: url("Marble-Stone.jpg");}
 
 body, pre, pre code {
   font-size: 18px;
