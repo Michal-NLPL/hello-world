@@ -1,5 +1,5 @@
 html {
-  background-image: img src="files/Marble-Stone.jpg";
+  background-image: url("Marble-Stone.jpg");
 }
 
 body {
