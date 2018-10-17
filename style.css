@@ -53,7 +53,7 @@ h1, h2 {
 }
 
 h1 {
-  border-bottom-width: 7px;
+  border-bottom-width: 8px;
 }
 
 h2 {
@@ -64,8 +64,7 @@ img, audio, iframe {
   width: 100%;
 }
 
-#intro { 
-font-family: 'Helvetica';
-  font-weight: large;
-  font-style: large;
+p.intro {
+    font-family: "Times New Roman", Times, serif;
 }
+
