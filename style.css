@@ -18,7 +18,7 @@ body {
 
 
 a:link, a:visited {
-    background-color: #000000;
+    background-color: #808000;
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -28,7 +28,7 @@ a:link, a:visited {
 
 
 a:hover, a:active {
-    background-color: blue;
+    background-color: white;
 }
 body {  background-image: <img src ="files/Marble-Stone.jpg">;
 }
