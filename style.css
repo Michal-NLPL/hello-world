@@ -16,7 +16,6 @@ body {
   font-style: normal;
 }
 
-}
 
 a:link, a:visited {
     background-color: #000000;
@@ -67,6 +66,6 @@ img, audio, iframe {
 
 #intro { 
 font-family: 'Bremen Bd BT';
-  font-weight: normal;
+  font-weight: large;
   font-style: large;
 }
